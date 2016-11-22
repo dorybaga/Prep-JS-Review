@@ -55,10 +55,9 @@ Console log the variable
 Console log the value at index 1.
 Console log the value at index 3.*/
 var japanPrefectures = ["tokyo", "osaka", "kagawa", "kyoto", "nara"];
-console.log(japanPrefectures);
-console.log(japanPrefectures[1]);
-console.log(japanPrefectures[3]);
-
+// console.log(japanPrefectures);
+// console.log(japanPrefectures[1]);
+// console.log(japanPrefectures[3]);
 
 
 /*6.  Variable with Array for its value.
@@ -66,10 +65,17 @@ Declare a variable named planets and assign the value of each planet in our sola
 Console log the variable
 Console log "Earth" using the index position
 Console log "Uranus" using the index position*/
+var planets = ["mercury", "venus", "earth", "mars", "jupiter", "saturn", "uranus", "neptune", "pluto"];
+// console.log(planets);
+// console.log(planets[2]);
+// console.log(planets[6]);
+
 
 /*7. Variables with Array for its value.
 Declare a variable named india and assign the value of 3 popular tourist attractions.  
 Console log the variable.*/
+
+
 
 /*8. Adding new elements to an array.
 Add another popular tourist attraction to the india variable from position 1 of the index.
