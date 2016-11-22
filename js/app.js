@@ -10,18 +10,24 @@ Go get em!*/
 /*1.  Variables with a String as their value.
 Declare variables named yourName, neighborName, teacherName.  Console log each variable.*/
 var yourName = "dory";
-console.log(yourName);
+// console.log(yourName);
 
 var neighborName = "kyle";
-console.log(neighborName);
+// console.log(neighborName);
 
 var teacherName = "vic";
-console.log(teacherName);
+// console.log(teacherName);
 
 /*2. Variable with a Number as their value.
-Declare variables named numberOfFloorsBurjKhalifa, TokyoOlympicsYear. Please assign the actual data for each variable.
+Declare variables named numberOfFloorsBurjKhalifa, TokyoOlympicsYear. 
+Please assign the actual data for each variable.
 Console log each variable.*/
 
+var numberOfFloorsBurjKhalifa = 163;
+// console.log(numberOfFloorsBurjKhalifa);
+
+var TokyoOlympicsYear = 2020;
+// console.log(TokyoOlympicsYear);
 
 
 
