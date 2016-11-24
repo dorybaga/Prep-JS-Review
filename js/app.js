@@ -75,7 +75,8 @@ var planets = ["mercury", "venus", "earth", "mars", "jupiter", "saturn", "uranus
 Declare a variable named india and assign the value of 3 popular tourist attractions.  
 Console log the variable.*/
 
-
+var india = ["taj mahal", "ganges", "rani ki vav"];
+console.log(india);
 
 /*8. Adding new elements to an array.
 Add another popular tourist attraction to the india variable from position 1 of the index.
